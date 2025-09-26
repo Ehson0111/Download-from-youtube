@@ -3,7 +3,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-BOT_TOKEN = '7259164657:AAEhfubI7UmxK2x2yqz9GueUlbectxL1lEo'
+BOT_TOKEN = 'Token '
 
 ydl_opts = {
     "continuedl": True,
